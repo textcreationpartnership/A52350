@@ -1,0 +1,1199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Nine muses, or, Poems written by nine several ladies upon the death of the late famous John Dryden, Esq.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52350</idno>
+            <idno type="STC">Wing N1159</idno>
+            <idno type="STC">ESTC R21869</idno>
+            <idno type="EEBO-CITATION">12362030</idno>
+            <idno type="OCLC">ocm 12362030</idno>
+            <idno type="VID">60270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 218:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Nine muses, or, Poems written by nine several ladies upon the death of the late famous John Dryden, Esq.</title>
+                  <author>Manley, Mrs. (Mary de la Rivière), 1663-1724.</author>
+               </titleStmt>
+               <extent>[9], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Basset ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Poems by Mrs. Manley, Lady Peirce, Mrs. Field, Mrs. Pix, Mrs. C. Trotter, and Mrs. D.E.</note>
+                  <note>Dedication signed: Ric. Basset.</note>
+                  <note>First ed. Cf. NUC pre-1956.</note>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dryden, John, 1631-1700 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:60270:1"/>
+            <pb facs="tcp:60270:1"/>
+            <p>
+               <hi>The Nine MUSES.</hi> OR, POEMS Upon the Death of the late Famous JOHN DRYDEN, <abbr>
+                  <hi>Eſq</hi>
+               </abbr>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:60270:2"/>
+            <pb facs="tcp:60270:2"/>
+            <p>
+               <hi>The Nine MUSES.</hi> OR, POEMS WRITTEN By Nine ſeveral Ladies Upon the Death of the late Famous JOHN DRYDEN,
+<abbr>
+                  <hi>Eſq</hi>
+               </abbr>
+            </p>
+            <lg>
+               <l>As Earth thy Body keeps, thy Soul the Sky,</l>
+               <l>So ſhall this Verſe preſerve thy Memory,</l>
+               <l>For thou ſhalt make it live, becauſe it Sings of thee,</l>
+            </lg>
+            <p>Mr. <hi>Dryden</hi>'s Elegy on Lady <hi>Abington.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baſſet,</hi> at the
+<hi>Mitre</hi> in <hi>Fleetſtreet,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:60270:3"/>
+            <pb facs="tcp:60270:3"/>
+            <head>TO THE RIGHT HONOURABLE Charles Montague,
+<abbr>
+                  <hi>Eſq</hi>
+               </abbr> Auditor <hi>of His Majeſty's Exchequer;</hi> and One of his Majeſty's Moſt Honourable Privy Council.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS You are juſtly Entitled to the greateſt ſhare of the Muſes favours, ſo Poems that are done by thoſe who give themſelves the Honour of being their <hi>Repreſentatives,</hi> could not fix on on a more deſerving <hi>Patron.</hi>
+            </p>
+            <p>The <hi>Sex,</hi> which the Authors are of, is an excuſe for their <hi>performance,</hi> and as commendation to Your <hi>Acceptance,</hi> and though to fall under Your Cenſure, is to be examin'd by the niceſt of
+<hi>Judges,</hi> yet to have Recourſe to a Gentleman, who is continually employ'd in <hi>Pardoning</hi> the Defects of Authors, and giving 'em
+<hi>Encouragement</hi> to Write ſomething Worthy of His Acceptance, takes off from the Apprehenſion of Your Diſpleaſure, which I might otherwiſe Labour under.</p>
+            <p>
+               <pb facs="tcp:60270:4"/>The Ladies, indeed themſelves, might have had a better Plea for Your Reception; but ſince the modeſty which is Natural to the Sex they are of, will not ſuffer em to do that Violence to their Tempers, I think my ſelf Oblig'd to make a Preſent of what is Written in Honour of the moſt Conſummate <hi>POET</hi> amongſt our <hi>Engliſh Dead</hi> to the moſt Diſtinguiſhing amongſt the <hi>Living.</hi> You have been pleaſed already to ſhew Your Reſpect to his Memory, in contributing ſo largely to<g ref="char:EOLhyphen"/>wards His Burial notwithſtanding He had that un<g ref="char:EOLhyphen"/>happineſs of Conduct, when alive, to give you Cauſe to Diſclaim the Protection of Him.</p>
+            <p>And though it may look ſomething like innovation, upon the Practice of Men of my Profeſſion, to take what is the buſineſs of Authors upon 'em, yet ſince I am not the firſt <hi>Bookſeller</hi> that has Broken out off the Road, which is mark'd out for thoſe of my Trade, I humbly beg leave to advance the <hi>Credit</hi> of the Papers which are my Property, by prefixing a Name which muſt needs ſtamp <hi>Authority</hi> upon em, and the Honour of Subſcribing,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt Obedient, and moſt Devoted Servant Ric. Baſſet.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:60270:4"/>
+            <head>To my Friend, Upon his Publiſhing the following
+<hi>POEMS,</hi> Written by <hi>Nine Ladies,</hi> perſonating the
+<hi>M<g ref="char:V">Ʋ</g>SES.</hi>
+            </head>
+            <lg>
+               <l>WHen <hi>Ladies</hi> venture forth in ſearch of Fame,</l>
+               <l>And repreſent the <hi>Juſtice</hi> of their Claim,</l>
+               <l>The tempting Goddeſs reaches out the Bays,</l>
+               <l>And entertains the <hi>Sex</hi> with Draughts of Praiſe;</l>
+               <l>As ev'ry <hi>Muſe</hi> does in their Favour riſe,</l>
+               <l>And ev'ry Grace ſits ſparkling in their Eyes.</l>
+            </lg>
+            <lg>
+               <l>Our <hi>Sex</hi> would then, if Silent, much abuſe,</l>
+               <l>And ſhew it ſelf unworthy of a Muſe,</l>
+               <l>Should we not <hi>Wit</hi> with <hi>Beauty</hi> joyn'd approve,</l>
+               <l>When <hi>Beauty</hi> without <hi>Wit</hi> has <hi>forc'd</hi> our Love.</l>
+            </lg>
+            <lg>
+               <l>Believe me, Friend, and think my Cenſure true,</l>
+               <l>I feel the <hi>Lover,</hi> and the <hi>Rival</hi> too,</l>
+               <l>Raptur'd with Joys which all my Soul poſſeſs,</l>
+               <l>Yet could <hi>almoſt</hi> have wiſh'd the Pleaſure
+<hi>leſs;</hi>
+               </l>
+               <l>Since in their Lines I feel that ſtrength of Thought,</l>
+               <l>Which I could never reach the' daily <hi>ſought.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis true, the Men their Tears have duely paid,</l>
+               <l>And, <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> kept the Shade:</l>
+               <l>But oh! What <hi>God</hi> would liſten to our Call?</l>
+               <l>What <hi>Goddeſs</hi> lend us Strains to mourn his Fall?</l>
+               <l>
+                  <pb facs="tcp:60270:5"/>
+                  <hi>Phaebus</hi> had fix'd his longing Ears and Eyes,</l>
+               <l>And dwell'd upon more <hi>acceptable</hi> Cries.</l>
+            </lg>
+            <lg>
+               <l>Hence iſſues forth a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> delightful Song,</l>
+               <l>Fair as their <hi>Sex,</hi> and as their <hi>Judgment</hi> ſtrong,</l>
+               <l>Moving its <hi>Force,</hi> and tempting in its
+<hi>Eaſe,</hi>
+               </l>
+               <l>
+                  <hi>Secur'd</hi> of Fame, unknowing to
+<hi>diſpleaſe,</hi>
+               </l>
+               <l>In ev'ry word like <hi>Aganippe</hi> clear<g ref="char:punc">▪</g>
+               </l>
+               <l>And <hi>cloſe</hi> its meaning, and its Sence
+<hi>ſevere,</hi>
+               </l>
+               <l>As virtuous <hi>Thoughts</hi> with chaſt
+<hi>Expreſſions</hi> join,</l>
+               <l>And make 'em truly what They feign, <hi>divine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor ſhall this Work be wanting to ſucceſs,</l>
+               <l>While Beauty's <hi>Deity,</hi> ſhall <hi>Beauty</hi> bleſs<g ref="char:punc">▪</g>
+               </l>
+               <l>While <hi>Dryden</hi>'s Name, deduc'd to future Times,</l>
+               <l>Shall give and take a luſtre from its Rhimes,</l>
+               <l>While Noble <hi>Montague</hi>'s auſpicious Name,</l>
+               <l>Shall <hi>add</hi> t' its Merit, and preſerve its
+<hi>Fame.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Philomuſus.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <div n="Melpomene" type="poem">
+               <pb n="1" facs="tcp:60270:5"/>
+               <head>Melpomene: <hi>The Tragick Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By Mrs. <hi>M</hi>—</byline>
+               <lg>
+                  <l>COME all my Siſters now in Conſort join,</l>
+                  <l>Each weep her Favrite's loſs with Tears Divine:</l>
+                  <l>Fill all the Space with your immortal Sighs,</l>
+                  <l>The vaulted Heavens return your louder Cries.</l>
+                  <l>Ye Loves and Graces-hang your Heads, and weep,</l>
+                  <l>And every God a decent Silence keep;</l>
+                  <l>That I may Grieve my fill, for <hi>Dryden</hi>'s gone,</l>
+                  <l>Well may I now the mourning Vail put on:</l>
+                  <l>Well may I now with Cypreſs load my Brow,</l>
+                  <l>For who like him can e'er invoke me now?</l>
+                  <l>Who ſang fair <hi>Killigrew</hi>'s untimely fall,</l>
+                  <l>And more than <hi>Roman</hi> made her Funeral.</l>
+                  <l>Inſpir'd <hi>by Me,</hi> for me, he cou'd Command,</l>
+                  <l>Bright <hi>Abington</hi>'s rich Monument ſhall ſtand</l>
+                  <l>For evermore, the Wonder of the Land.</l>
+                  <l>
+                     <hi>Oldham</hi> he ſnatch'd from an ignoble Fate,</l>
+                  <l>Chang'd his croſs Star for a more fortunate.</l>
+                  <l>For who wou'd not with Pride reſign his Breath,</l>
+                  <l>To be ſo Lov'd, to be ſo Bleſt in Death.</l>
+                  <l>
+                     <hi>Cromwel</hi>'s great Genius here was greater ſhewn,</l>
+                  <l>Well might ſuch Vertues for one Vice attone;</l>
+                  <l>If vaſt Ambition can be reckon'd Vice,</l>
+                  <l>Which to great <hi>Jove</hi> gave the Imperial Skies.</l>
+                  <l>The Monarch <hi>CHARLES</hi> he has Divinely Sung,</l>
+                  <l>Well I remember, when my Graces hung</l>
+                  <l>On each inchanting Accent of his Tongue.</l>
+                  <l>
+                     <pb n="2" facs="tcp:60270:6"/>Then a whole Hecatomb of Vows he made,</l>
+                  <l>And I, the Offering, gratefully repaid;</l>
+                  <l>For this alone he has deſerv'd the Prize,</l>
+                  <l>As <hi>Ranelagh,</hi> for her Victorious Eyes,</l>
+                  <l>When on the Tragick Theme my Hero wrote,</l>
+                  <l>I lent him all my Fire, and every Thought;</l>
+                  <l>How Artfully he does the Paſſions move,</l>
+                  <l>How at his Voice we Languiſh<g ref="char:punc">▪</g> Weep; or Love<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Ev'n I, a Maid, of ſo untouch'd a Fame,</l>
+                  <l>At <hi>Cleopatra</hi>'s Grief muſt pitty more than blame.</l>
+                  <l>St. <hi>Catherine</hi>'s Martyrdom has greater Charms,</l>
+                  <l>Than the lewd Prince, imagin'd from her Arms.</l>
+                  <l>Whilſt <hi>Dorax</hi> and <hi>Sebaſtian</hi> both contend<g ref="char:punc">▪</g>
+                  </l>
+                  <l>To ſhew the generous Enemy and Friend<g ref="char:punc">▪</g>
+                  </l>
+                  <l>O, I ſhould never ceaſe, ſhould I repeat</l>
+                  <l>Each leſſer part, of that which forms the great.</l>
+                  <l>Fixt, like the Sun, Superiour and alone,</l>
+                  <l>His Glories o're inferiour Beings ſhone.</l>
+                  <l>Pale twinkling Stars all other Writers ſeem,</l>
+                  <l>Nor warms, nor lights, tho' they'r in Numbers ſeen.</l>
+                  <l>In him alone all Attributes were found,</l>
+                  <l>And he the Univerſal God renown'd,</l>
+                  <l>Unfollow'd drove, through all his own Immortal round.</l>
+               </lg>
+               <closer>
+                  <signed>Melpomene.</signed>
+               </closer>
+            </div>
+            <div n="Urania" type="poem">
+               <pb n="3" facs="tcp:60270:6"/>
+               <head>Urania: <hi>The Divine Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By the Honourable the Lady <hi>P</hi>—</byline>
+               <lg>
+                  <l>WHEN through the Univerſe with Horrour ſpread,</l>
+                  <l>A ſacred Voice pronounc'd Great <hi>PAN</hi> was dead,</l>
+                  <l>All Nature trembled at the direful Fate,</l>
+                  <l>And <hi>Atlas</hi> ſunk beneatl his pond'rous weight;</l>
+                  <l>The mournful Muſes h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng their heads with woe,</l>
+                  <l>While ev'ry Deity regrets the Blow,</l>
+                  <l>And to the holy Oracles, deny</l>
+                  <l>All farther Inſpects of futurity;</l>
+                  <l>The Earth did under ſtrong Convulſions groan,</l>
+                  <l>And Heaven did eccho back the dreadful moan:</l>
+               </lg>
+               <lg>
+                  <l>With no leſs grief, with no leſs pain oppreſt,</l>
+                  <l>
+                     <hi>Britania</hi> felt the wound within her Breaſt,</l>
+                  <l>When through the murmuring Croud ſad Accents bore</l>
+                  <l>The fatal News, that <hi>Dryden</hi> was no more:</l>
+                  <l>No more, to charm the liſt'ning World with Lays,</l>
+                  <l>But fled to ſing his great Creator's praiſe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>No more with artful Numbers, to beſtow</l>
+                  <l>An univerſal Influence below:</l>
+                  <l>No more with all diſcerning Truth, to tell</l>
+                  <l>How they ſhou'd act, and how diſtinguiſh well,</l>
+                  <l>But Summon'd by <hi>Apollo</hi>'s ſacred Lyre,</l>
+                  <l>Now chaunts his Raptures in the Heav'nly Choir.</l>
+               </lg>
+               <lg>
+                  <l>Loud were the Clamours, and the moving Cries,</l>
+                  <l>Which cut the yielding Air, and pierc'd the Skies;</l>
+                  <l>While on <hi>Parnaſſus,</hi> 'twas the Muſes care</l>
+                  <l>Freſh Garlands for their Darling to prepare;</l>
+                  <l>
+                     <pb n="4" facs="tcp:60270:7"/>I ſearch'd the Treaſures of the Pow'rs above,</l>
+                  <l>And form'd an Anthem on Seraphick Love:</l>
+                  <l>New Themes we choſe, not more polite than he</l>
+                  <l>Has left already to Poſterity;</l>
+                  <l>But thoſe for which the Iſland does repine,</l>
+                  <l>For which they ſtill invoke his awful Shrine,</l>
+                  <l>And with tranſported Sorrow loudly cry,</l>
+                  <l>
+                     <hi>Virgil,</hi> the <hi>Roman</hi> Eagles taught to fly,</l>
+                  <l>But <hi>Dryden</hi> mounts their Pinions to the Sky!</l>
+                  <l>To him proud <hi>Greece</hi> and <hi>Italy</hi> muſt bow,</l>
+                  <l>And his ſublime Authority allow,</l>
+                  <l>Who by his never dying Works, weiſee</l>
+                  <l>Merits, and gives an Immortality</l>
+                  <l>Oh give us <hi>Homer</hi> yet, thou glorious Bard;</l>
+                  <l>But if this laſt Petition can't be heard,</l>
+                  <l>Yet like that Prophet, wing'd by ſtrong deſire,</l>
+                  <l>Who broke from Earth, wrapt in Celeſtial fire,</l>
+                  <l>Confer thy Spirit on the blooming Son,</l>
+                  <l>And bleſs the Progreſs he ſo well begun;</l>
+                  <l>Let <hi>Garth</hi> inherit all thy generous Flame,</l>
+                  <l>
+                     <hi>Garth,</hi> who alone can juſtify the Claim.</l>
+                  <l>He, whom the God of Wiſdom did fore-doom,</l>
+                  <l>And ſtock with Eloquence to pay thy Tomb,</l>
+                  <l>The moſt triumphant Rites of ancient <hi>Rome.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'Tis this that fills <hi>Urania</hi>'s Eyes with Tears.</l>
+                  <l>'Tis this ungrateful Sound that racks my Ears,</l>
+                  <l>Who now to thee, <hi>Melpomene,</hi> repair,</l>
+                  <l>To mix my Sorrows with thy anxious care;</l>
+                  <l>Unite us all within thy gloomy Breaſt,</l>
+                  <l>Where downy Peace, and Pleaſure find no reſt;</l>
+                  <l>There let us drink the Floods thou ſhed'ſt, and then</l>
+                  <l>A deluge of Deſpair pour out again.</l>
+                  <l>What if our Tears ſhou'd drown the World a new,</l>
+                  <l>The Sacrifice were to his <hi>Manes</hi> due.</l>
+                  <l>Who now of Heroes, or of Gods can ſing!</l>
+                  <l>Who their Credentials from <hi>Apollo</hi> bring!</l>
+                  <l>
+                     <pb n="5" facs="tcp:60270:7"/>Where ſhall <hi>Urania</hi> now beſtow her aid!</l>
+                  <l>Or who great <hi>Dryden</hi>'s Province dare invade!</l>
+                  <l>Ah none ſuch lofty Subjects can purſue;</l>
+                  <l>The Muſes have, alas! no more to do,</l>
+                  <l>Than ſing his Elogies, and ſo expire,</l>
+                  <l>In the cold Urn of his extinguiſh'd Fire.</l>
+               </lg>
+               <lg>
+                  <l>But ſtay, a ſudden Thought does now revive</l>
+                  <l>My drooping heart, and keep my hopes alive;</l>
+                  <l>Behold in <hi>Albion</hi> lately did appear</l>
+                  <l>A learned Bard, to <hi>Eſculapius</hi> dear,</l>
+                  <l>Well knowing in the Secrets of his Skill,</l>
+                  <l>And ſurely foſter'd on <hi>Parnaſſus</hi>'s Hill,</l>
+                  <l>Nor does the Chryſtal <hi>Helicon</hi> beſtow</l>
+                  <l>A clearer Stream, than from his Numbers flow:</l>
+                  <l>On him already all the Graces ſmile,</l>
+                  <l>In him ſurvive new Trophies for the Iſle;</l>
+                  <l>More I'le not urge, but know our Wiſhes can</l>
+                  <l>No higher Soar, ſince <hi>Garth</hi>'s the Glorious Man;</l>
+                  <l>Him let us Conſtitute in <hi>Dryden</hi>'s ſtead,</l>
+                  <l>Let Laurels ever flouriſh on his head,</l>
+                  <l>And let us to <hi>Apollo</hi> make our Pray'r</l>
+                  <l>To Nominate him his Vice-regent, there;</l>
+                  <l>By this <hi>Britannia</hi> ſhall her Joys retreive,</l>
+                  <l>Nor find that <hi>Dryden</hi>'s dead, while <hi>Garth</hi> does live.</l>
+               </lg>
+            </div>
+            <div n="Erato" type="poem">
+               <head>Erato: <hi>The Amorous Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By Mrs. <hi>S. F.</hi>
+               </byline>
+               <lg>
+                  <l>IN the wiſh'd cloſe of Evening's welcome gloom,</l>
+                  <l>My longing Steps reach'd an inviting bloom;</l>
+                  <l>Whoſe untrod paths the ſad'ning Cypreſs grac'd,</l>
+                  <l>And in ſmall Plats were ſofter Myrtles plac'd;</l>
+                  <l>The lofty Cedars with extended Arms,</l>
+                  <l>Twine to keep off the force of Rougheſt Storms,</l>
+                  <l>
+                     <pb n="6" facs="tcp:60270:8"/>And num'rous Towring Arbourets they made,</l>
+                  <l>The Solemn Glory of the pleaſing ſhade.</l>
+                  <l>On Verdant Moſs Natures rich Cloth of State,</l>
+                  <l>By a clear Thrilling ſtream ſupine I late.</l>
+                  <l>Upon my Hand, my thoughtful Head Reclin'd,</l>
+                  <l>Sad, ſoft Ideas entertain'd my Mind,</l>
+                  <l>And I to Sing ſome Lovers fate inclin'd.</l>
+                  <l>But ſtrait <hi>Erato</hi> whom I did invoke,</l>
+                  <l>Forbid my choice her Speech abruptly broke,</l>
+                  <l>At laſt in Sighs the interdiction ſpoke.</l>
+                  <l>Ye ſhall no more Write tender moving ſtrains,</l>
+                  <l>To pleaſe the Nymphs and melt the wiſhing Swains,</l>
+                  <l>But to the World my Sorrows you ſhall tell,</l>
+                  <l>How I have griev'd ſince the loſt <hi>Hero</hi> fell,</l>
+                  <l>My Darling <hi>Dryden</hi> whom I loy'd ſo well<g ref="char:punc">▪</g>
+                  </l>
+                  <l>He who has done ſuch Glorys to my Name,</l>
+                  <l>Immortal as my ſelf has made my Fame.</l>
+                  <l>Watchful as Lovers I firſt ſaw his Fate,</l>
+                  <l>With rageing Sounds <hi>Parnaſſus</hi>'s loſs relate.</l>
+                  <l>Call'd all my Siſters with my Frantick Crys,</l>
+                  <l>And every God to <hi>join</hi> in th' Obſequies,</l>
+                  <l>With Tears made <hi>Helcyon</hi> Brackiſh as the Seas.</l>
+                  <l>Like a deſerted Maid in Wild deſpair,</l>
+                  <l>I tore my Myrtle Wreath and flowing Hair,</l>
+                  <l>My Mantle rent and ſhatter'd in the Air.</l>
+                  <l>And in looſe Cipreſs Vail'd my uſeleſs Charms,</l>
+                  <l>Sigh'd till I turn'd our <hi>Aether</hi> into Storms.</l>
+                  <l>No more I'le wanton on our mountains Brow,</l>
+                  <l>Nor curious pains upon my Locks beſtow.</l>
+                  <l>In amorous folds my azure Mantle twine,</l>
+                  <l>And ſooth ſoft languiſhments in Airs divine;</l>
+                  <l>But careleſs throw me in ſome dusky Shade,</l>
+                  <l>Which Willows, Cypreſs, Yew has awful made;</l>
+                  <l>There to my Votreſs, <hi>Eccho,</hi> I'le complain,</l>
+                  <l>Whoſe Complaiſance reverberates again,</l>
+                  <l>My piercing Groans through every Wood and Plain.</l>
+                  <l>Thus I and She in an Eternal round,</l>
+                  <l>Will my Celeſtial Griefs for <hi>Dryden</hi>'s Death reſound.</l>
+                  <l>
+                     <pb n="7" facs="tcp:60270:8"/>
+                     <hi>Dryden,</hi> who with ſuch ardour did invoke,</l>
+                  <l>That I through him my greateſt Raptures ſpoke,</l>
+                  <l>Whiſper'd at thouſand tender melting things,</l>
+                  <l>Till he writ Lays moving as <hi>Orpheu</hi>'s Strings.</l>
+                  <l>Oft I for Ink did radiant Nectar bring.</l>
+                  <l>And gave him Quills from Infant <hi>Cupid</hi>'s Wing,</l>
+                  <l>Whoſe tender force did as Victorious prove,</l>
+                  <l>As if they'd been the Immortal Shafts of Love;</l>
+                  <l>Warm'd every Breaſt with a ſurprizing Fire,</l>
+                  <l>And in the Niceſt ſofteſt Thoughts inſpire:</l>
+                  <l>Such luſtre ſtill grac'd his Magnetick Line,</l>
+                  <l>It was both irreſiſtleſs and Divine.</l>
+                  <l>With what Celeſtial cadence doth he tell,</l>
+                  <l>The priſtine Joys of Love e're Mankind fell:</l>
+                  <l>When in the blooming Grove the firſt kind pair,</l>
+                  <l>With amorous Sighs fan'd the Ambroſial Air;</l>
+                  <l>Smiling on flowry Banks ſupinely laid,</l>
+                  <l>The ardent Youth preſt the unbluſhing Maid,</l>
+                  <l>In his ſoft Lines ſuch Extaſies they boaſt,</l>
+                  <l>To hear <hi>their</hi> Loves, Rivals the Bliſs they loſt.</l>
+                  <l>When <hi>Cleopatra</hi>'s paſſion he adorns,</l>
+                  <l>How nobly <hi>Anthony</hi> the Empire ſcorns,</l>
+                  <l>Diſſolv'd in her kind Arms tranſported lay,</l>
+                  <l>For Love's ſoft Joys gave the rough Crown away.</l>
+                  <l>Such Realms of Bliſs the Hero ſtill poſſeſt,</l>
+                  <l>Sighing fond Vows on her returning Breaſt;</l>
+                  <l>Who reads their Languiſhments their Paſſions feel,</l>
+                  <l>Intranc'd in Joy too exquiſite to tell.</l>
+                  <l>When an inceſtuous Flame his Theme has bin,</l>
+                  <l>He almoſt <hi>charms</hi> us to forgive the Sin.</l>
+                  <l>My favourite <hi>Ovid's ſtrains,</hi> I did improve,</l>
+                  <l>And taught my <hi>Dryden</hi> tenderer <hi>Arts</hi> of Love.</l>
+                  <l>Such Arts had our addreſſing <hi>Phaebus</hi> known,</l>
+                  <l>
+                     <hi>Daphne,</hi> tho' coy, had not unconquer'd flown,</l>
+                  <l>But brought the Hero forth, and not their Crown.</l>
+                  <l>He ſo advanc'd what ever I beſtow'd;</l>
+                  <l>I was Love's Muſe, but he himſelf the God.</l>
+               </lg>
+            </div>
+            <div n="Euterpe" type="poem">
+               <pb n="8" facs="tcp:60270:9"/>
+               <head>Euterpe: <hi>The Lyrick Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr> 
+                  <hi>An</hi> O. D. E.</head>
+               <byline>By Mrs. <hi>J. H.</hi>
+               </byline>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>I Soft <hi>Euterpe,</hi> ſweeteſt of the
+<hi>Nine,</hi>
+                  </l>
+                  <l>The moſt Inſpiring, and the moſt Divine,</l>
+                  <l>By my own Lyre rais<g ref="char:punc">▪</g>d to extatick Joy</l>
+                  <l>Full of kind Influence expecting ſate<g ref="char:punc">▪</g>
+                  </l>
+                  <l>When tuneful <hi>Dryden</hi> would my Aid implore,</l>
+                  <l>Who with gay Tranſports did my Gifts employ,</l>
+                  <l>And meaneſt Thoughts above my Notes did ſoar.</l>
+                  <l>But ſtrait a diſmal, and unwelcome Sound,</l>
+                  <l>Fill'd all th' Aetherial Courts around,</l>
+                  <l>
+                     <hi>Great</hi> Dryden <hi>is no more.</hi>
+                  </l>
+                  <l>But like the common things in mortal State,</l>
+                  <l>Loſt in th' impartial Gulf of an inevitable Fate.</l>
+                  <l>At the dread News grief all my Luſtre veil'd,</l>
+                  <l>I broke my harmonious <hi>Harp</hi> and <hi>Lute,</hi>
+                  </l>
+                  <l>Threw by my ſoftning ever-charming Flute,</l>
+                  <l>Not the leaſt glympſe of Joy appears,</l>
+                  <l>No radiant Nymphs about my Pallace wait,</l>
+                  <l>Nor drink I any <hi>Nectar</hi> but my Tears.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>I with profoundeſt Cauſe, and Sorrow mourn,</l>
+                  <l>Over my <hi>Dryden</hi>'s ſacred Urn:</l>
+                  <l>He was my greateſt Glory, only boaſt,</l>
+                  <l>Through him I let ungrateful Mankind know,</l>
+                  <l>What mighty Wonders I could do,</l>
+                  <l>But now, like him, to the inferior World I'm loſt.</l>
+                  <l>I taught Him all the ſofter Airs of Love,</l>
+                  <l>And Anthems ſo divine; he'll find the ſame above.</l>
+                  <l>
+                     <pb n="9" facs="tcp:60270:9"/>With an auſpicious Pride I did diſpence</l>
+                  <l>My mighty Favours, when <hi>He</hi> did implore,</l>
+                  <l>From my pregnant unexhauſted Store,</l>
+                  <l>Of tuneful Fancies, and harmonious Sence.</l>
+                  <l>When I with gentle Fire have warm'd the Breaſt,</l>
+                  <l>The Soul with pleaſing Raptures bles't,</l>
+                  <l>The ſacred Flame in ev'ry part does ſhine,</l>
+                  <l>The <hi>Product,</hi> like the <hi>Source,</hi> is all divine,</l>
+                  <l>And an immortal Luſtre graces ev'ry Line.</l>
+                  <l>Poetry's not th' effect of Art, or Wine, or Love,</l>
+                  <l>Tho' <hi>They</hi> ſometimes the Gift improve,</l>
+                  <l>Nor is the warmth that Poets does inſpire,</l>
+                  <l>
+                     <hi>Vinum Daemonum,</hi> but Celeſtial Fire.</l>
+                  <l>A God-like Ray enlightning from above;</l>
+                  <l>As decent Meaſures, reg'lar Motions be</l>
+                  <l>Through all the tuneful Univerſe,</l>
+                  <l>And ſpeak in all a glorious Harmony,</l>
+                  <l>Ev'n ſo the myſtick Numbers of melodious Verſe,</l>
+                  <l>Are of th' intellectual World the ſacred Symmetry.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>
+                     <hi>Dryden</hi> I choſe of all the tuneful Throng,</l>
+                  <l>His Soul with ardour fill'd fit for immortal Song;</l>
+                  <l>Learn'd him all Lyrick Arts of Poetry,</l>
+                  <l>Such as might with Celeſtial Notes agree;</l>
+                  <l>Which his Induſtry did approve,</l>
+                  <l>In Celebrations, Elegies and Love,</l>
+                  <l>And ev'ry Theme which his commanding Pen would try</l>
+                  <l>With ſtrength of Judgment, and profoundeſt ſence,</l>
+                  <l>With ſparkling Wit, gay Fancy, Eloquence,</l>
+                  <l>His Verſe did all abound:</l>
+                  <l>In him alone was found</l>
+                  <l>The much deſir'd, aim'd at Excellence.</l>
+                  <l>In ev'ry Line magnificent or ſweet,</l>
+                  <l>Like <hi>OVID ſoft,</hi> or elſe like <hi>VIRGIL great.</hi>
+                  </l>
+                  <l>
+                     <hi>Orpheus</hi>'s magnetick Harp leſs pow'r cou'd boaſt,</l>
+                  <l>All <hi>Rage,</hi> unleſs in <hi>Love</hi> when e'er he ſung was <hi>loſt.</hi>
+                  </l>
+                  <l>Above 'em all he rais'd his matchleſs Lays,</l>
+                  <l>Glory of <hi>Britain,</hi> and Wits Empire too,</l>
+                  <l>
+                     <pb n="10" facs="tcp:60270:10"/>Which tho' the Subjects are but Few,</l>
+                  <l>Did juſtly wreath him with deſerved Bays:</l>
+                  <l>The verdant Diadem which Laureat Crown,</l>
+                  <l>Ne're look'd ſo freſh as when he put it on,</l>
+                  <l>Then like his Lines with Godlike-luſtre ſhone.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>With a Superior and victorious Grace</l>
+                  <l>The Sacred Place,</l>
+                  <l>He did almoſt unenvy'd aſſume,</l>
+                  <l>I, pleas'd to ſee the Branches ſpread</l>
+                  <l>O're his triumphant Head,</l>
+                  <l>From th' <hi>Helicon</hi> Spring</l>
+                  <l>Did Water bring,</l>
+                  <l>Sprinkled them oft that they might ever bloom.</l>
+                  <l>But, oh! they cou'd not ſtand the Rage,</l>
+                  <l>Of an ill-natur'd and Lethargick Age,</l>
+                  <l>Who ſpight of <hi>Wit</hi> wou'd <hi>ſtupidly</hi> be Wiſe,</l>
+                  <l>All noble Raptures, Extaſies deſpiſe,</l>
+                  <l>And only Plodders after Sence will Prize.</l>
+                  <l>They from his meritorious Brow</l>
+                  <l>The Laurel tear<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Which none but he could juſtly wear,</l>
+                  <l>And He muſt ſuffer <hi>Abdication</hi> too.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>With Him they did ſuppreſs all lofty flights of Poetry.</l>
+                  <l>All melting Airs, and rapt'ring Harmony,</l>
+                  <l>But this Revenge, let Mankind take from me.</l>
+                  <l>If any dare on <hi>Dryden</hi>'s Death to Write,</l>
+                  <l>Not to expreſs their Grief, but ſhew their Wit,</l>
+                  <l>I the Ambitious purpoſe will Reverſe,</l>
+                  <l>Deny my Aid,</l>
+                  <l>And ſo ſhall each inſpiring Maid.</l>
+                  <l>Reſolving ungrateful Man who could contemn</l>
+                  <l>Such Noble excellence in Him.</l>
+                  <l>Shall never more the bleſſing know,</l>
+                  <l>We'll ne'r again our influence beſtow.</l>
+                  <l>Tho' 'tis pretended to adorn His Herſe.</l>
+                  <l>
+                     <pb n="11" facs="tcp:60270:10"/>(Unleſs the generous <hi>Montague</hi> implore,</l>
+                  <l>Then in him ſhall all our Glories ſhine as heretofore.)</l>
+                  <l>But to expreſs our own immortal Love,</l>
+                  <l>We'll Solemnize His Obſequies above,</l>
+                  <l>Our grief ſuch Emphaſis ſhall bear,</l>
+                  <l>As no Corporeal Organs can declare,</l>
+                  <l>And one Eternal Sigh ſpread thro' the Extending Air.</l>
+               </lg>
+            </div>
+            <div n="Thalia" type="poem">
+               <head>Thalia: <hi>The Comick Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr> A PASTORAL.</head>
+               <byline>By Mrs. <hi>M</hi>—</byline>
+               <stage>Alexis, Daphne, Aminta, Thalia.</stage>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <lg>
+                     <l>IF falling Tears and Sighs too deep for Art,</l>
+                     <l>Can paint the ſufferings of a Bleeding Heart.</l>
+                     <l>If all your looks ſo much of ſorrow wears,</l>
+                     <l>That they can ſpeak, unaided by your Tears,</l>
+                     <l>Why ſince my abſence, are thy beauties loſt,</l>
+                     <l>What Cruel Grief, has thus thy Charms ingroſt.</l>
+                     <l>Say <hi>Daphne,</hi> tell <hi>Alexis</hi> why you Mourn,</l>
+                     <l>Why this dejected Mien, why thus forlorn,</l>
+                     <l>Is there a Swain you love without return.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <lg>
+                     <l>That <hi>Staff</hi> and <hi>Scrip,</hi> ſpeak your arrival new,</l>
+                     <l>But you'l not long, be unconcern'd as now.</l>
+                     <l>Why do I ſeem as choſe by angry fate,</l>
+                     <l>To give you Grief, whilſt I my own relate.</l>
+                     <l>For ſure the Cauſe is common of our woe,</l>
+                     <l>Judge what you'l feel, by what I undergoe,</l>
+                     <l>Since ev'n your lov'd return can bring no Joy,</l>
+                     <l>That Rival Grief, does ev'ry Beam deſtroy.</l>
+                     <l>Our Bard is loſt, our great <hi>Apollo</hi>'s Dead,</l>
+                     <l>Immortal <hi>Dryden</hi>'s to th' Immortal fled.</l>
+                     <l>Here let me Veil my grief, I can no more,</l>
+                     <l>Until ſome Aiding God, my Powers reſtore.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="12" facs="tcp:60270:11"/>
+                  <speaker>Am.</speaker>
+                  <lg>
+                     <l>See poor <hi>Alexis</hi> turns aſide to Mourn,</l>
+                     <l>The firſt aſſaults of grief, are hardeſt born.</l>
+                     <l>Nor asks he how his Flocks, and Paſtures fare,</l>
+                     <l>Sing, <hi>Daphne</hi> Sing, to eaſe the Shepherd's Care.</l>
+                     <l>For ſweetneſs to thy Voice, and ſtrains belong,</l>
+                     <l>Sing to his Praiſe, of <hi>Dryden</hi> be thy Song.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <lg>
+                     <l>Cou'd I like <hi>Waller</hi> Praiſe, his Praiſe wou'd be</l>
+                     <l>A Theam fit for my Muſe, my Muſe for thee.</l>
+                     <l>Cou'd I like <hi>Waller</hi> mourn, with unbound Hair,</l>
+                     <l>And Flowing Tears, the Daughter of Deſpair.</l>
+                     <l>Each Towring Hill, and every humble Plain,</l>
+                     <l>Shou'd Echo to my Voice, in ſuch a ſtrain,</l>
+                     <l>As thro' the Ear ſhould wound the liſtning Swaih,</l>
+                     <l>Then his unequal'd worth, I'de boldly Name,</l>
+                     <l>And whilſt I gave receive a Deathleſs Fame;</l>
+                     <l>For cou'd ſhe e're a juſter Wreath diſpence,</l>
+                     <l>Than for excelling in ſuch Excellence?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <lg>
+                     <l>Ceaſe <hi>Daphne,</hi> ceaſe, no Muſick's in thy Song,</l>
+                     <l>Our Griefs ſo moving, and the Sence ſo ſtrong,</l>
+                     <l>As not to be expreſs'd by Mortal tongue.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <lg>
+                     <l>I know my humble Muſe, untaught by Art</l>
+                     <l>Muſt only hope to touch ſome eaſy heart:</l>
+                     <l>But if Sincerity be more approv'd</l>
+                     <l>Than Eloquence, by Intereſt mov'd,</l>
+                     <l>I beſt can know to mourn, who beſt have lov'd.</l>
+                     <l>Cou'd but the Earth be Summon'd at my Call,</l>
+                     <l>High from his Funeral Pile, I'de ſpeak to all</l>
+                     <l>With guſhing Tears, torn Robes, and ſtretcht out Arms,</l>
+                     <l>Invoke <hi>Melpomene</hi> with all her doleful Charms,</l>
+                     <l>And thus beſpeak the wondring World with Cries,</l>
+                     <l>Deep Groans, and intermiſſionary Sighs.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Tha.</speaker>
+                  <lg>
+                     <l>See, <hi>Daphne,</hi> ſee, <hi>Thalia</hi> now appears,</l>
+                     <l>Call'd by thy powerful Voice, her Heav'n forbears.</l>
+                     <l>For paſſions oft to Swains in Shades have ſhewn,</l>
+                     <l>That but in Name, ours differ from their Own.</l>
+                     <l>
+                        <pb n="13" facs="tcp:60270:11"/>My <hi>Dryden</hi>'s loſs, our ſelf with Swains will Sing,</l>
+                     <l>And Flowers and Garlands to his Triumphs bring<g ref="char:punc">▪</g>
+                     </l>
+                     <l>My Bliſsful Soul, that Loves with Joy to ſwell,</l>
+                     <l>Wou'd Mourn indeed, but not on Sorrow dwell<g ref="char:punc">▪</g>
+                     </l>
+                     <l>For this I left my deathleſs Siſter's cries,</l>
+                     <l>To ſing with mortal Nimphs his Obſequies.</l>
+                     <l>That once perform'd, our ſelf we will return,</l>
+                     <l>The gay <hi>Thalia</hi> can no longer mourn:</l>
+                     <l>
+                        <hi>Bring here the Spring, and throw freſh Garlands on,</hi>
+                     </l>
+                     <l>
+                        <hi>With all the Flowers that wait the riſing Sun;</hi>
+                     </l>
+                     <l>
+                        <hi>Theſe ever greens true Emblems of his Soul,</hi>
+                     </l>
+                     <l>
+                        <hi>Take</hi> Daphne <hi>theſe, and ſcatter thro' the whole,</hi>
+                     </l>
+                     <l>
+                        <hi>Whilſt the Eternal</hi> Dryden's <hi>Worth I tell,</hi>
+                     </l>
+                     <l>
+                        <hi>My lovely Bard that ſo lamented fell.</hi>
+                     </l>
+                     <l>Such true delight his Comick Muſe adorn,</l>
+                     <l>Here you are ſhewn the Vices you ſhou'd ſcorn.</l>
+                     <l>Poor ridicul'd <hi>Melantha</hi> bears her part,</l>
+                     <l>Her native Beauty's ſpoil'd by foreign Art.</l>
+                     <l>
+                        <hi>Gomez,</hi> the old, paſt any uſe of Life<g ref="char:punc">▪</g>
+                     </l>
+                     <l>To all his leſs Diſeaſes adds a Wife,</l>
+                     <l>Who does not then <hi>Elvira</hi>'s Youth excuſe,</l>
+                     <l>When gay <hi>Lorenzo</hi> offers the Abuſe<g ref="char:punc">▪</g>
+                     </l>
+                     <l>But moſt I laugh, when <hi>Dominich</hi> is ſhewn</l>
+                     <l>Such Hipocrites, Religion ſhou'd diſown.</l>
+                     <l>
+                        <hi>Bring here the Spring, and throw freſh Garlands on,</hi>
+                     </l>
+                     <l>
+                        <hi>With all the Flowers that wait the riſing Sun;</hi>
+                     </l>
+                     <l>
+                        <hi>Theſe ever greens true Emblems of his Soul,</hi>
+                     </l>
+                     <l>
+                        <hi>Take</hi> Daphne <hi>theſe, and ſcatter thro' the whole;</hi>
+                     </l>
+                     <l>
+                        <hi>Whilſt the Eternal</hi> Dryden's <hi>Worth I tell,</hi>
+                     </l>
+                     <l>
+                        <hi>My lovely Bard, that ſo lamented fell.</hi>
+                     </l>
+                     <l>Shepherds, the Sun declines, or I cou'd ſhew</l>
+                     <l>O're all his well-dreſt Scenes how Nature flows,</l>
+                     <l>What Strength, what Wit, what Learning in each part,</l>
+                     <l>Here to the Soul he ſpeaks, there to the Heart:</l>
+                     <l>Tho' you attend with an unwearied Ear,</l>
+                     <l>Your Flocks and Herds ſeem to require your care;</l>
+                     <l>Here let us now our laſt ſad Tears combine,</l>
+                     <l>Here let us all in ſolemn Mourning join.</l>
+                     <l>
+                        <pb n="14" facs="tcp:60270:12"/>
+                        <hi>Bring here the Spring, and throw freſh Garlands on,</hi>
+                     </l>
+                     <l>
+                        <hi>With all the Flowers that wait the Riſing Sun;</hi>
+                     </l>
+                     <l>
+                        <hi>Theſe ever greens true Emblems of his Soul<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>Take</hi> Daphne <hi>theſe, and ſcatter thro' the whole,</hi>
+                     </l>
+                     <l>
+                        <hi>Whilſt the Immortal</hi> Dryden'<hi>s Worth I tell,</hi>
+                     </l>
+                     <l>
+                        <hi>My lovely Bard, that ſo lamented fell.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="Clio" type="poem">
+               <head>Clio: <hi>The Hiſtorick Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By Mrs. <hi>M. P.</hi>
+               </byline>
+               <lg>
+                  <l>IMmortal <hi>Clio</hi> thou my Breaſt inſpire,</l>
+                  <l>And ſet my Numbers to thy tuneful Lyre,</l>
+                  <l>Whilſt I a <hi>Requiem</hi> ſing to <hi>Dryden</hi>'s Name,</l>
+                  <l>The fore-moſt Bard, and Eldeſt Son of Fame.</l>
+                  <l>Ye tender Loves, in mumuring Sighs deplore,</l>
+                  <l>Him, whoſe ſoft ſtrain adorn'd the Britiſh Shore.</l>
+                  <l>Whoſe Charming Verſe was Sung thro all the Plains,</l>
+                  <l>Mov'd the Coy Nimphs, and fir'd the Amorous Swains.</l>
+                  <l>From Fields, from Silver Streams, and <hi>Grotto</hi>'s come,</l>
+                  <l>Bring all their Flowers to Deck your Maſter's Tomb.</l>
+                  <l>Enrich his Hearſe, with Balm of Eloquence,</l>
+                  <l>Sweet as his Numbers, Lofty as his Sence.</l>
+                  <l>Say how you flag'd your Wings in that dark Day,</l>
+                  <l>That ſnatch'd from Mortal
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, your Fa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> away,</l>
+                  <l>Say this and more, too much you cannot ſay.</l>
+                  <l>Weep all with melting Strains in Comfort join,</l>
+                  <l>In Solemn Woe, t' aſſiſt the Mourning Nine.</l>
+                  <l>But when ye 'ave paid or Grief the mighty Score,</l>
+                  <l>When pitying Gods man did you Weep no more.</l>
+                  <l>Sing their Immortal praiſe, from Pole to Pole,</l>
+                  <l>That gave our <hi>Maro</hi> ſo Divine a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>Whoſe Verſes ſhin'd like
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>As <hi>Milton</hi> Soar'd, or any Muſe can fly,</l>
+                  <l>Of Love, of War, when e're his
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>All liſten'd to the Muſick of his Song,</l>
+                  <l>And uſeleſs Flutes, upon the Willows hung.</l>
+                  <l>
+                     <pb n="15" facs="tcp:60270:12"/>But who on Earth can Boaſt of true Repoſe,</l>
+                  <l>Pale Envy from her Snaky Bed aroſe,</l>
+                  <l>In thouſand Shapes his Merit to oppoſe.</l>
+                  <l>As when conſpiring Nations vainly join'd,</l>
+                  <l>'Gainſt ſome Hero's mighty Strength, and mightier mind.</l>
+                  <l>Like <hi>Hercules</hi> the more his Glory grows,</l>
+                  <l>And ſtill ſurvives the malice of his Foes;</l>
+                  <l>New Labours add to his triumphant Bays,</l>
+                  <l>And every Victim ſounds his deathleſs Praiſe:</l>
+                  <l>Thus Vertue higher flies oppreſs'd with pains,</l>
+                  <l>And Valour brighteſt ſhines in duſty Plains.</l>
+               </lg>
+               <lg>
+                  <l>Stop here, my Muſe, no more thy Office boaſt,</l>
+                  <l>This drop of Praiſe is in an Ocean loſt;</l>
+                  <l>His Works alone are Trumpets of his Fame,</l>
+                  <l>And every Line will Chronicle his Name.</l>
+               </lg>
+            </div>
+            <div n="Calliope" type="poem">
+               <head>Calliope: <hi>The Heroick Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By Mrs. <hi>C. T.</hi>
+               </byline>
+               <lg>
+                  <l>CEaſe all my tuneful Siſters, now reſtrain</l>
+                  <l>Your ſacred Fire, you laviſh it in vain,</l>
+                  <l>At leaſt no grateful Vows I e're ſhall hear again.</l>
+                  <l>
+                     <hi>Dryden</hi>'s no more! Who with ſuch Ardour pray'd,</l>
+                  <l>And ſuch rich Incenſe at our Altars paid.</l>
+                  <l>He charm'd us to his Will, each ſtrove which beſt</l>
+                  <l>Our Votary cou'd inſpire, he all addreſs'd,</l>
+                  <l>And was by all with Emulation bleſt.</l>
+                  <l>Who now ſuch Offerings for our Gifts can bring;</l>
+                  <l>Now ſad <hi>Melpomene</hi> alone may ſing,</l>
+                  <l>Or we by her inſpr'd, each break her Lyre,</l>
+                  <l>And all be ever ſtil'd, <hi>The mournful Quire.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="16" facs="tcp:60270:13"/>
+                  <l>Yet you, my happier Siſters, ſtill enflame</l>
+                  <l>Some favourite Bard, who well invokes your Name;</l>
+                  <l>
+                     <hi>Vanbrugh,</hi> the <hi>Comick Muſe</hi> has Grac'd with Praiſe;</l>
+                  <l>
+                     <hi>Granvill,</hi> whoſe well wrought Scenes the Paſſions raiſe,</l>
+                  <l>In Tragick Strains ſhall long adorn the Stage;</l>
+                  <l>And <hi>Garth,</hi> in pointed Satyr, laſh the Age.</l>
+                  <l>Each equal to his Theme, my loftier flight</l>
+                  <l>Not daring yet t'attempt. <hi>Bl—re</hi> in ſpight</l>
+                  <l>Of me, and Nature, ſtill preſumes to write;</l>
+                  <l>Heavy, and doz'd, crawls out the tedious length,</l>
+                  <l>Unfit to ſoar, drags on with Peaſant ſtrength</l>
+                  <l>The weight he cannot raiſe; be his alone</l>
+                  <l>The Glory of a Work which I diſown;</l>
+                  <l>Heroick Dulneſs eternize his Fame,</l>
+                  <l>
+                     <hi>Maevius</hi> forgot, <hi>Proverbial</hi> be his Name;</l>
+                  <l>Scarce was I more enrag'd againſt the Three</l>
+                  <l>Aſſaſſins, <hi>Chapman, Hobbs</hi> and
+<hi>Ogilby;</hi>
+                  </l>
+                  <l>The laſt my <hi>Virgil</hi> had defac'd in vain,</l>
+                  <l>To all his Charms, by <hi>Dryden,</hi> rais'd again;</l>
+                  <l>But ſtill my mangled <hi>Homer</hi>'s Wounds remain.</l>
+               </lg>
+               <lg>
+                  <l>With Envy he beheld freſh Lawrels ſpread,</l>
+                  <l>On the Triumphing <hi>Mantuan</hi>'s ſacred head;</l>
+                  <l>Who with Majeſtick mein (his Crown retreiv'd)</l>
+                  <l>The <hi>Britain's</hi> Homage awfully receiv'd.</l>
+               </lg>
+               <lg>
+                  <l>I take, he ſaid, theſe Honours as my own,</l>
+                  <l>Grac'd juſtly with the Prize which <hi>Dryden</hi> won;</l>
+                  <l>Let this, my Son, my grateful Tribute be,</l>
+                  <l>That I am proud of Praiſe, I owe to thee.</l>
+                  <l>That I confeſs thou mak'ſt my Genius ſhine,</l>
+                  <l>In my own Numbers Dreſt, not more Divine.</l>
+                  <l>Thus lively were the Images I drew,</l>
+                  <l>Thus <hi>Romans</hi> ſaw Old <hi>Troy</hi> in Flames a new,</l>
+                  <l>Thus interreſted in <hi>Aeneas</hi> Fate,</l>
+                  <l>Share all the joys, or hardſhips, I relate:</l>
+                  <l>Thus join my Battels, feel the Wounds I paint,</l>
+                  <l>Thus fought my Heroe, and thus Went my Saint.</l>
+                  <l>Belov'd and pitty'd thus, Brave <hi>Turnus</hi> fell;</l>
+                  <l>Both Vanquiſh'd by our ſelves, we drew ſo well,</l>
+                  <l>
+                     <pb n="17" facs="tcp:60270:13"/>The lovely Youth, all grieve his Fate to ſee,</l>
+                  <l>And leſs applaud our Hero's Victory.</l>
+               </lg>
+               <lg>
+                  <l>With <hi>Virgil, Chaucer</hi> ſings Great <hi>Dryden</hi>'s Name,</l>
+                  <l>Who gave new luſter to his darkned Fame;</l>
+                  <l>Diſpel'd the Clouds by which he was conceal'd,</l>
+                  <l>And to his native Iſle the Bard reveal'd;</l>
+                  <l>Not bleſt enough in his own glorious State,</l>
+                  <l>Till he to them a part Communicate.</l>
+                  <l>Of all great Actions by his bounteous Flame,</l>
+                  <l>Th' inciter and Reward: Now you who aim</l>
+                  <l>With fading Pow'r, at bright immortal Fame.</l>
+                  <l>Ambitious Monarchs, all whom Glory warms,</l>
+                  <l>Ceaſe your vain toil, throw down your conquering Arms,</l>
+                  <l>Your active Souls confine, ſince you muſt dye</l>
+                  <l>Like vulgar Men, your Names and Actions lye</l>
+                  <l>Where <hi>Trojan</hi> Heroes, had not <hi>Homer</hi> liv'd,</l>
+                  <l>Had lain forgot, nor ruin'd <hi>Troy</hi> ſurviv'd;</l>
+                  <l>No more their Glories I can e're retrieve,</l>
+                  <l>For Nature can no ſecond <hi>Dryden</hi> give.</l>
+               </lg>
+            </div>
+            <div n="Terpsichore" type="poem">
+               <head>Terpſichore: <hi>A Lyrick Muſe.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By Mrs. <hi>L. D. ex tempore.</hi>
+               </byline>
+               <lg>
+                  <l>JUST as the Gods were liſtening to my Strains,</l>
+                  <l>And thouſand Loves danc't o're the Aethereal Plains.</l>
+                  <l>(With my own radiant Hair my Harp I ſtrung,</l>
+                  <l>And in glad Conſort all my Siſters ſung,</l>
+                  <l>An univerſal Harmony above,</l>
+                  <l>Inſpir'd us all with Gaiety and Love.)</l>
+                  <l>A horrid Sound daſht our immortal Mirth,</l>
+                  <l>Wafted by Sighs from the unlucky Earth.</l>
+                  <l>Who'd <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Celeſtial Forms ſhould Sorrows know,</l>
+                  <l>Or ſimpathize with ſad Events below;</l>
+                  <l>But by our great Immortal Selves we do:</l>
+                  <l>
+                     <pb n="18" facs="tcp:60270:14"/>For when the loud unwelcome Meſſage ſpread,</l>
+                  <l>With diſmal Accents tuneful <hi>Dryden's Dead,</hi>
+                  </l>
+                  <l>All our gay Joys in haſt affrighted fled.</l>
+                  <l>A ſullen Gloom ſeiz'd all the Gods around,</l>
+                  <l>My feeble hand no more the Lyre cou'd ſound;</l>
+                  <l>And all the ſoft young Loves, with drooping Wings</l>
+                  <l>Liſp't their concern, and my neglected Strings</l>
+                  <l>Trembl'd themſelves into a mournful Air,</l>
+                  <l>Then ſight and huſht into a ſad deſpair;</l>
+                  <l>There let them ever unregardedly</l>
+                  <l>
+                     <hi>Apollo</hi>'s too, doth ceaſe its Harmony.</l>
+                  <l>He with as ſacred Nimphs profuſely mourns,</l>
+                  <l>With us the leaſt deſire of Reſpite ſcorns</l>
+                  <l>Intire eternal Grief; our Beings ſeize</l>
+                  <l>For him who beſt could us and Mankind<g ref="char:punc">▪</g> pleaſe.</l>
+                  <l>Great <hi>Dryden,</hi> in whoſe yaſt capacious Mind<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Our utmoſt pow'r did fit reception find;</l>
+                  <l>Which Favours he did generouſly diſpence<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Joy'd the glad World with his amazing Sence,</l>
+                  <l>And like us too diffus'd his Influence;</l>
+                  <l>His Genius would ſuch Inſpiration bear,</l>
+                  <l>That his Illuſtrious Lines did not appear</l>
+                  <l>As if our Product, but our Selves were there.</l>
+                  <l>Mourn ye forſaken Worlds, you ne're again<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Be bleſt with ſo Divine, ſo great a Swain.</l>
+                  <l>In you no more let tuneful Mirth be found,</l>
+                  <l>The very Spheres ſhall ceaſe wonted Sound,</l>
+                  <l>And every Orb ſtop its harmonious round:</l>
+                  <l>All Nature huſh as if intranc't ſhe lay,</l>
+                  <l>Sunk in old Chao<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> e're the inlight'ning Ray</l>
+                  <l>Of Heaven awak'd her in the firſt-born Day.</l>
+                  <l>With ſuch ſtill Horrour, lets our Sorrows bear,</l>
+                  <l>Leaſt Sighs in time Harmonious ſhould appear,</l>
+                  <l>If e're to Write again, is Man's intent,</l>
+                  <l>Uncall'd on let us ſilently Lament</l>
+                  <l>And take his Works for an Eternal Preſident.</l>
+               </lg>
+            </div>
+            <div n="Polimnia" type="poem">
+               <pb n="18" facs="tcp:60270:14"/>
+               <head>Polimnia: <hi>Of Rhetorick.</hi>
+               </head>
+               <head type="sub">On the Death of <hi>John Dryden,</hi>
+                  <abbr>Eſq</abbr>
+               </head>
+               <byline>By Mrs. <hi>D. E.</hi>
+               </byline>
+               <lg>
+                  <l>CAll'd by my Grief, <hi>Melpomene</hi> I come,</l>
+                  <l>With Radiant Tears, to Grace my <hi>Dryden</hi>'s Tome<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Me my imperial Father <hi>Jove</hi> has made<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Of powerful Rhetorick, the Glorio<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Maid.</l>
+                  <l>But ſince my Heav'nly Birth did ne're inſpire,</l>
+                  <l>Nor Found a Soul Capacious of ſuch Fire.</l>
+                  <l>Pleas'd with the mortal Wonder, I look'd down,</l>
+                  <l>And on his Brows fixt an Immortal Crown.</l>
+                  <l>With Lovers hands, I la viſht all my Charms,</l>
+                  <l>Gave up my ſelf, to his more Lovely Arms<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Which his unequal'd Works ſo loudly Sound<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Where Energy, and Rhetorick abound,</l>
+                  <l>And every Grace that's in <hi>Minerva</hi> found<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Ah Mournful Siſter, thou my Grief muſt ſhare,</l>
+                  <l>A loſs ſo vaſt, no ſingle Breaſt can bear.</l>
+                  <l>Wreath me in my Dark Robes, I'le watch thy Eyes,</l>
+                  <l>Mingle our Tears and Eccho to thy Sighs,</l>
+                  <l>Of Eloquence no more, the uſe I'le Boaſt<g ref="char:punc">▪</g>
+                  </l>
+                  <l>That all Arts, are in my Lover Loſt.</l>
+                  <l>Inceſſant Groans, be all my Rhetorick now,</l>
+                  <l>My Immortality, I wou'd forgoe,</l>
+                  <l>Rather than drag this Chain of endleſs Woe.</l>
+                  <l>O mighty Father, hear a Daughter's Pray'r,</l>
+                  <l>Cure me by Death, from deathleſs ſad Diſpair.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:60270:15"/>
+            <head>BOOKS Printed for <hi>Richard Baſſet</hi> at the
+<hi>Mitre,</hi> againſt <hi>Chancery-Lane</hi> in
+<hi>Fleetſtreet.</hi>
+            </head>
+            <p>
+               <hi>POetae Britannici.</hi> A Poem, Satyrical and Panegyrical, upon our <hi>Engliſh</hi> Poets. By Mr. <hi>Cob</hi> of <hi>Trinity College</hi> in <hi>Cambridge,</hi> price One Shilling.</p>
+            <p>The Sceptical Muſe; Or, a Paradox upon Humane Underſtanding. A Poem. By Mr. <hi>Dove,</hi> of <hi>Catharine-Hall.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>The Polite Gentleman; or, Reflections upon the ſeveral kinds of Wit, <hi>viz.</hi> in Books, Converſation, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Affairs of the World. By Mr. <hi>Barker,</hi>
+120. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The French Spy; or, the Memoirs of <hi>John Baptiſt de la Fontaine,</hi> Lord of <hi>Savoy,</hi> and <hi>Fontenai,</hi> late Brigadeer and Surveyor of the <hi>French</hi> King's Army, now a Priſoner in the
+<hi>Baſtile;</hi> containing many Secret Tranſactions relating both to
+<hi>England</hi> and <hi>France,</hi> 8vo. p. 5 <hi>s.</hi>
+            </p>
+            <p>Travels over <hi>England, Scotland</hi> and <hi>Wales,</hi> giving a True and exact Deſcription of the Chiefeſt Cities, Towns and Corporations, together with the Antiquities of divers other Places, with the moſt famous Ca<g ref="char:EOLhyphen"/>thedrals, and other Eminent Structres of ſeveral Remarkable Caves and Wells, with many other Divertive Paſſages, never before Publiſhed. By <hi>James Brome,</hi> M. A. Rector of Cheriton in
+<hi>Kent,</hi> and Chaplain to the Right Honorable the Earl of <hi>Romney,</hi>
+8vo. p. 4 <hi>s.</hi>
+            </p>
+            <p>The Works of the Learned and Valliant <hi>Joſephus,</hi> Epitomiz'd from the <hi>Greek</hi> Original, and the Hiſtory Prefery'd in what is material and ſubſtantial, only by Contracting things of Leſſer Moment, Digeſting the matter cloſer, and Avoiding Uſeleſs Repetitions; to which are added, <hi>Joſephus</hi>'s Two Books againſt <hi>Appion,</hi> his Rule of Reaſon, or the Martyrdom of the <hi>Macchabees,</hi> and the Embaſſy of <hi>Philo Judaeus,</hi> to the Emperor <hi>Caius Caligula,</hi>
+8vo. p. 6 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Memorirs of Denmark;</hi> containing the Life and Reign of the late King of Denmark, Norway, &amp;c. Chriſtian the 5th, together with an Ezact Account of thoſe Differences now on Foot, betwixt the Houſes of
+<hi>Denm<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k</hi> and
+<hi>Holſtein Gottorp,</hi> with all the remarkable Circumſtances thereunto belonging, taken from Authentick Letters and Records, with the Copies of the Treaties of <hi>Fountainbleeu, Altena</hi> and <hi>Pinenburg,</hi> by <hi>J. Crull,</hi> M. D. <hi>F. R. S.</hi> and a Member of the College of Phyſitians.</p>
+            <p>The <hi>Innocent Miſtreſs,</hi> a Comedy.</p>
+            <p>
+               <hi>Ibrahim</hi> the 13th Emperor of the <hi>Turks,</hi> a Tragedy.</p>
+            <p>The <hi>Spaniſh Wives</hi> a Farce.</p>
+            <p>The <hi>Deceiver Deceiv'd,</hi> a Comedy.</p>
+            <p>
+               <hi>Queen-Catharine:</hi> Or, the <hi>Ruines of Love,</hi> a Tragedy. All Written by Mrs. <hi>Pix.</hi>
+            </p>
+            <p>The Unnatural Mother, the Scene in the Kingdom, of <hi>Siam,</hi> a Tragi-Comedy. Written by a Young Lady.</p>
+            <p>The Beau Defeated; or Lucky Younger Brother, a Comedy.</p>
+            <p>
+               <hi>Xerxes<g ref="char:punc">▪</g>
+               </hi> a Tragedy. Written by Mr.
+<hi>Cibber.</hi>
+            </p>
+            <pb facs="tcp:60270:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
